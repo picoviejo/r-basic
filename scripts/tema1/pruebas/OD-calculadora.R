@@ -19,6 +19,7 @@
 725%/%7
 
 725%%7
+
 # D = d * q + r
 # r = D - d * q
 # q = D %/% d
@@ -54,6 +55,8 @@ c(2^30, 2^(-15), 1, 2, 3/2)
 
 sqrt(25)
 
+sqrt (256)
+
 exp(1)
 
 log(pi)
@@ -61,6 +64,7 @@ log(pi)
 log(32, 2)
 
 log(32, base = 2)
+
 log(base=2, 32)
 
 abs(-pi)
@@ -69,9 +73,11 @@ factorial(7)
 
 factorial(4)
 
+factorial(32)
+
 factorial(0)
 
-choose(5, 3)
+choose(40, 5)
 
 choose(3,5)
 
